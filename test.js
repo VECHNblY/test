@@ -1,2 +1,1 @@
-console.log('test');
-console.log('test');
+let test = 3;
